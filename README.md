@@ -42,7 +42,7 @@ It is **absolutely critical** to have a properly terminated cable when connectin
 Download this repository as a zip file and extract, or clone it like this:
 
 ```sh
-$ git clone https://github.com/roryrudolph/canbus.git
+$ git clone https://github.com/dell/Dell-Gateway-5000-IO-Tool.git
 ```
 
 The latest stable x86_64 binary files can be found in the `dist` directory. If you do not wish to compile the source yourself, skip to the **Running** section. If you wish to compile from source, continue reading below.
